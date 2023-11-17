@@ -404,7 +404,20 @@ span{
    .sobre-mim p{
     font-size: 12px;
    }
-   
+   .home{
+    flex-direction: column;
+   }
+   .home-img img{
+    width: 85vw;
+
+   }
+   .sobre-mim{
+    flex-direction: column-reverse;
+   }
+   .sobre-mim-img{
+    width: 55vw;
+
+   }
 
    .sobre-mim h2{
     font-size: 20px;
